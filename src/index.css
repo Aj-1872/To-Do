@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li{
+    list-style: none;
+}
+
+.btn_remove{
+    background-color: red;
+    border-radius: 5px;
+}
